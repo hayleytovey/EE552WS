@@ -1,0 +1,11 @@
+What are JDK, JRE and JVM? It should be in your own words and not more than two unambiguous sentences for each.
+  JDK is a platform for Java and is a Java compiler. It stands for Java Development Kit (JDK) includes tools for useful for developing and testing   programs that are written in Java.JRE which stands for Java Runtime Environment includes resources that Java specifically needs to run and work.   It consists of class libraries, loader class, and the JVM and it will not run if the JRE isn't present. JVM stands for Java Virtual Machine       which is an engine that has a runtime environment to drive the applications or code in Java. Basically it converts Java bytecode into machine     language.
+  
+What is the relation between the three (JDK, JRE, JVM)? How is Java code executed in a Java program. Explain by assuming that the program was written on one platform (e.g., Windows) and executed on another (e.g., Linux). Small paragraph of 6-9 sentences.
+  All three work together to allow Java to work efficiently. JDK is the software development kit while JRE is a software bunla allowing the         program to run and JVM is is an environment for executing bytecode.
+  
+
+With the help of the code for Hello World program in Java (you can copy code with citation), explain when this program needs JDK (and not JRE and JVM), JRE (and not JVM) and JVM.
+
+
+Modify the document at least twice each person to make it better and show your competency to do version control using github.

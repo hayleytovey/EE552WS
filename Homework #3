@@ -15,5 +15,8 @@ The following code is for Hello World program in Java:
 
 Modify the document at least twice each person to make it better and show your competency to do version control using github.
 
+Nontrivial Question: If a Java code does not pass through the JVM (let's say the code is invalid), does it go back through all of the stages or does it loop just through the JVM again and again?
+
+
 
 Note: I wasn't able to find my partners Github and couldn't get in contact, however I understand how to add people to my Github and edit files.
